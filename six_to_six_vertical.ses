@@ -4,40 +4,40 @@
   (placement
     (resolution um 10)
     (component Connector_PinSocket_2.54mm:PinSocket_2x06_P2.54mm_Vertical
-      (place J9 1016000 -1016000 front 90)
+      (place J3 1016000 -1016000 front 90)
     )
     (component Connector_PinSocket_2.54mm:PinSocket_2x06_P2.54mm_Vertical::1
-      (place J7 1016000 -711200 front 90)
+      (place J1 1016000 -711200 front 90)
     )
     (component Connector_PinSocket_2.54mm:PinSocket_2x06_P2.54mm_Vertical::2
-      (place J12 1803400 -1320800 front 90)
+      (place J6 1803400 -1320800 front 90)
     )
     (component Connector_PinSocket_2.54mm:PinSocket_2x06_P2.54mm_Vertical::3
-      (place J11 1016000 -1320800 front 90)
+      (place J5 1016000 -1320800 front 90)
     )
     (component Connector_PinSocket_2.54mm:PinSocket_2x06_P2.54mm_Vertical::4
-      (place J8 1803400 -711200 front 90)
+      (place J2 1803400 -711200 front 90)
     )
     (component Connector_PinSocket_2.54mm:PinSocket_2x06_P2.54mm_Vertical::5
-      (place J10 1803400 -1016000 front 90)
+      (place J4 1803400 -1016000 front 90)
     )
     (component Library:BNC_vertical
-      (place J1 1079500 -596900 back 90)
+      (place J7 1079500 -596900 back 90)
     )
     (component Library:BNC_vertical::1
-      (place J2 1866900 -596900 back 90)
+      (place J8 1866900 -596900 back 90)
     )
     (component Library:BNC_vertical::2
-      (place J3 1079500 -901700 back 90)
+      (place J9 1079500 -901700 back 90)
     )
     (component Library:BNC_vertical::3
-      (place J4 1866900 -901700 back 90)
+      (place J10 1866900 -901700 back 90)
     )
     (component Library:BNC_vertical::4
-      (place J6 1866900 -1206500 back 90)
+      (place J12 1866900 -1206500 back 90)
     )
     (component Library:BNC_vertical::5
-      (place J5 1079500 -1206500 back 90)
+      (place J11 1079500 -1206500 back 90)
     )
   )
   (was_is

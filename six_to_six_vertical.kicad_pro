@@ -380,7 +380,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "six_to_six_vertical.dsn",
-      "step": "",
+      "step": "six_to_six_vertical.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
