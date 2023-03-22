@@ -1,3 +1,29 @@
-"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
-1;"J3,J1,J6,J5,J2,J4";"PinSocket_2x06_P2.54mm_Vertical";6;"RF Conn";;;
-2;"J7,J8,J9,J10,J12,J11";"BNC_vertical";6;"bnc";;;
+"Source:","/home/matjaz/kicad/six_to_six_vertical/six_to_six_vertical.kicad_sch"
+"Date:","sre 22 mar 2023 13:44:07"
+"Tool:","Eeschema 6.0.9-8da3e8f707~116~ubuntu20.04.1"
+"Generator:","/usr/share/kicad/plugins/bom_csv_grouped_by_value.py"
+"Component Count:","12"
+
+"Individual Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet"
+"","","J1","RF Conn","Connector_Generic:Conn_02x06_Odd_Even","Connector_PinSocket_2.54mm:PinSocket_2x06_P2.54mm_Vertical","~"
+"","","J2","RF Conn","Connector_Generic:Conn_02x06_Odd_Even","Connector_PinSocket_2.54mm:PinSocket_2x06_P2.54mm_Vertical","~"
+"","","J3","RF Conn","Connector_Generic:Conn_02x06_Odd_Even","Connector_PinSocket_2.54mm:PinSocket_2x06_P2.54mm_Vertical","~"
+"","","J4","RF Conn","Connector_Generic:Conn_02x06_Odd_Even","Connector_PinSocket_2.54mm:PinSocket_2x06_P2.54mm_Vertical","~"
+"","","J5","RF Conn","Connector_Generic:Conn_02x06_Odd_Even","Connector_PinSocket_2.54mm:PinSocket_2x06_P2.54mm_Vertical","~"
+"","","J6","RF Conn","Connector_Generic:Conn_02x06_Odd_Even","Connector_PinSocket_2.54mm:PinSocket_2x06_P2.54mm_Vertical","~"
+"","","J7","BNC 5227671-1","Connector:Conn_Coaxial","Library:BNC_vertical","https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=5227671&DocType=Customer+Drawing&DocLang=English&DocFormat=pdf&PartCntxt=5227671-1"
+"","","J8","BNC 5227671-1","Connector:Conn_Coaxial","Library:BNC_vertical","https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=5227671&DocType=Customer+Drawing&DocLang=English&DocFormat=pdf&PartCntxt=5227671-1"
+"","","J9","BNC 5227671-1","Connector:Conn_Coaxial","Library:BNC_vertical","https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=5227671&DocType=Customer+Drawing&DocLang=English&DocFormat=pdf&PartCntxt=5227671-1"
+"","","J10","BNC 5227671-1","Connector:Conn_Coaxial","Library:BNC_vertical","https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=5227671&DocType=Customer+Drawing&DocLang=English&DocFormat=pdf&PartCntxt=5227671-1"
+"","","J11","BNC 5227671-1","Connector:Conn_Coaxial","Library:BNC_vertical","https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=5227671&DocType=Customer+Drawing&DocLang=English&DocFormat=pdf&PartCntxt=5227671-1"
+"","","J12","BNC 5227671-1","Connector:Conn_Coaxial","Library:BNC_vertical","https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=5227671&DocType=Customer+Drawing&DocLang=English&DocFormat=pdf&PartCntxt=5227671-1"
+
+
+
+"Collated Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet"
+"1","6","J1, J2, J3, J4, J5, J6","RF Conn","Connector_Generic:Conn_02x06_Odd_Even","Connector_PinSocket_2.54mm:PinSocket_2x06_P2.54mm_Vertical","~"
+"2","6","J7, J8, J9, J10, J11, J12","BNC 5227671-1","Connector:Conn_Coaxial","Library:BNC_vertical","https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=5227671&DocType=Customer+Drawing&DocLang=English&DocFormat=pdf&PartCntxt=5227671-1"
