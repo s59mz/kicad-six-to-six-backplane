@@ -848,8 +848,8 @@
   (gr_line locked (start 196.215 44.45) (end 98.425 44.45) (layer "Edge.Cuts") (width 0.1) (tstamp d3fb7b20-d0fa-46fb-9000-40c1a59972b1))
   (gr_arc locked (start 196.85 142.875) (mid 196.664013 143.324013) (end 196.215 143.51) (layer "Edge.Cuts") (width 0.1) (tstamp e03f47c3-fa04-4bc0-b740-adb70fef804c))
   (gr_line locked (start 97.79 45.085) (end 97.79 142.875) (layer "Edge.Cuts") (width 0.1) (tstamp f206883c-395a-40c5-9660-3b51a46f71de))
-  (gr_text "six to six backplane\nrev: 1.0\n12.03.2023\ndesigned by: S59MZ" (at 147.955 63.5) (layer "F.SilkS") (tstamp c01f0171-064d-41c9-81bf-3ad2f1f2eb13)
-    (effects (font (size 1.2 1.2) (thickness 0.15)))
+  (gr_text "6 on 6 Backplane\nrev: 1.0\n12.03.2023\nS59MZ, S55O" (at 148.59 64.77) (layer "F.SilkS") (tstamp c01f0171-064d-41c9-81bf-3ad2f1f2eb13)
+    (effects (font (size 1.3 1.3) (thickness 0.15)))
   )
 
   (segment (start 176.8176 101.6) (end 178.9422 101.6) (width 0.5) (layer "F.Cu") (net 1) (tstamp 35e46b8f-b3a4-4f1f-8217-c7fc9c6d1861))
